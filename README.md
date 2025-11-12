@@ -12,5 +12,5 @@
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
 
-![status](./status101.svg)
+<!-- ![status](./status101.svg) -->
 
