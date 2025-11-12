@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="48">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="60">
   <style>
-
-    .t { font: 600 16px/1.35 "Inter","Segoe UI",Arial,sans-serif; fill: #ff5555; } 
+    .t { font: 600 20px/1.4 "Stack Sans Notch", "Segoe UI", Arial, sans-serif; fill: #E30404; }
     .bg { fill: #222; }
   </style>
-  <rect class="bg" x="0" y="0" width="100%" height="100%" rx="6"/>
-  <text class="t" x="16" y="30">Currently I am working on Sunflower Wallet and learning Solidity.</text>
+  <rect class="bg" x="0" y="0" width="100%" height="100%" rx="8"/>
+  <text class="t" x="20" y="38">Currently I am working on Sunflower Wallet and learning Solidity.</text>
 </svg>
