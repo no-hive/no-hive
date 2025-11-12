@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="800" height="150">
+
+  <style>
+    .link {
+      fill: orange;
+      font-weight: 600;
+    }
+    .text {
+      fill: red;
+    }
+    text {
+      font-family: system-ui, sans-serif;
+      font-size: 16px;
+    }
+  </style>
+
+  <a xlink:href="https://remix.ethereum.org" target="_blank">
+    <text x="10" y="25">
+      <tspan class="link">[X (Twitter)]</tspan>
+      <tspan class="text"> - check my shitposts</tspan>
+    </text>
+  </a>
+
+  <a xlink:href="https://remix.ethereum.org" target="_blank">
+    <text x="10" y="55">
+      <tspan class="link">[Medium]</tspan>
+      <tspan class="text"> - check my thoughts</tspan>
+    </text>
+  </a>
+
+  <a xlink:href="https://remix.ethereum.org" target="_blank">
+    <text x="10" y="85">
+      <tspan class="link">[Website]</tspan>
+      <tspan class="text"> - check my story</tspan>
+    </text>
+  </a>
+
+  <a xlink:href="https://remix.ethereum.org" target="_blank">
+    <text x="10" y="115">
+      <tspan class="link">[Dune]</tspan>
+      <tspan class="text"> - check my on-chain data dashboards</tspan>
+    </text>
+  </a>
+
+</svg>
