@@ -10,6 +10,3 @@
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
-
-
-![f](https://github.com/no-hive/no-hive/blob/main/42324422.png)
