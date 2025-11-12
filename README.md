@@ -5,12 +5,10 @@
 ![](https://img.shields.io/github/followers/no-hive?style=flat-square&color=E30404)
 
 
-![Solidity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◻️◼️|-555555?style=plastic)
-![Clarity](https://img.shields.io/badge/CLARITY-|◻️◻️◼️◼️|-555555?style=plastic)
-![Git](https://img.shields.io/badge/GIT-|◻️◻️◼️◼️|-555555?style=plastic)
-![Hardhat](https://img.shields.io/badge/HARDHAT-|◻️◻️◻️◼️|-555555?style=plastic)
-![Foundry](https://img.shields.io/badge/FOUNDRY-|◻️◻️◼️◼️|-555555?style=plastic)
+
+![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
+![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
+![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
 
 
-
-
+![f](https://github.com/no-hive/no-hive/blob/main/42324422.png)
