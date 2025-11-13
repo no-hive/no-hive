@@ -4,7 +4,7 @@
 
 <!--![status](./status3.svg) -->
 
-## Five highlights about me ♨️
+### Five highlights about me ♨️
 
 - I am the co-founder of the cape4labs team. Together, we are currently building the Bitcoin Finance Wallet.
 
@@ -16,7 +16,7 @@
 
 - I love Science Fiction and blockchain techs for me is the way to build the world we only dreamt about. 
 
-## Check out my socials ⭕️
+### Check out my socials ⭕️
 
 [X (Twitter)] – 
 
@@ -24,7 +24,7 @@
 
 [Dune Analytics] - 
 
-## Check out my stack 🔺
+### Check out my stack 🔺
 
 <!--![Clarity](https://img.shields.io/badge/MY_STATISTICS-E30404?style=flat)
 ![](https://komarev.com/ghpvc/?username=no-hive&color=E30404) 
@@ -39,7 +39,7 @@
 
 <!-- ![status](./status101.svg) -->
 
-## Now when you know who I am, you are welcome to explore my projects: 
+### Now when you know who I am, you are welcome to explore my projects: 
 
 | Project            | Field              | Status        | Link                         | Short Description                               |
 |:-------------------|:-------------------|:--------------|:------------------------------|:-------------------------------------------------|
