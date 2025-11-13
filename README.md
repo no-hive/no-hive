@@ -16,14 +16,6 @@
 
 - I love Science Fiction and blockchain techs for me is the way to build the world we only dreamt about. 
 
-### Check out my socials ⭕️
-
-[X (Twitter)] – 
-
-[Medium] – 
-
-[Dune Analytics] - 
-
 ### Check out my stack 🔺
 
 <!--![Clarity](https://img.shields.io/badge/MY_STATISTICS-E30404?style=flat)
@@ -39,7 +31,7 @@
 
 <!-- ![status](./status101.svg) -->
 
-### Now when you know who I am, you are welcome to explore my projects: 
+### Eplore my projects ⭕ (template)
 
 | Project            | Field              | Status        | Link                         | Short Description                               |
 |:-------------------|:-------------------|:--------------|:------------------------------|:-------------------------------------------------|
