@@ -1,6 +1,6 @@
 ![!](bg2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=E30404&multiline=true&width=600&height=100&lines=My+name+is+no-hive%2C+and+I+work+with+DAOs%2C+DEXs%2C+;and+any+other+on-chain+infrstructure.+;________________________________________;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=E30404&multiline=true&width=600&height=100&lines=%2F%2F+My+name+is+no-hive%2C+and+I+work+with+DAOs%2C+DEXs%2C+;%2F%2F+and+any+other+on-chain+infrstructure.+;%2F%2F+________________________________________;%2F%2F+Welcome!)](https://git.io/typing-svg)
 
 <!--![status](./status3.svg) -->
 
