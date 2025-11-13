@@ -17,3 +17,16 @@
 
 <!-- ![status](./status101.svg) -->
 
+## Now when you know who I am, you are welcome to explore my projects: 
+
+| Project            | Field              | Status        | Link                         | Short Description                               |
+|:-------------------|:-------------------|:--------------|:------------------------------|:-------------------------------------------------|
+| Alpha Structura    | Architectura       | In progress   | https://example.com/alpha     | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Nova Scriptum      | Informatica        | Completed     | https://example.com/nova      | Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Terra Modulus      | Biologia           | Pending       | https://example.com/terra     | Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. |
+| Lux Orbis          | Astronomia         | In review     | https://example.com/lux       | Duis aute irure dolor in reprehenderit in voluptate velit esse. |
+| Vox Analytica      | Mathematica        | Draft         | https://example.com/vox       | Excepteur sint occaecat cupidatat non proident, sunt in culpa. |
+
+
+
+![!](bg3.png)
