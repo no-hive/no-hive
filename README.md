@@ -26,7 +26,7 @@
 ![Clarity](https://img.shields.io/badge/_-NOW-E30404?style=for-the-badge)
 ![Clarity](https://img.shields.io/badge/Blockchain_Developer-1+_year-E30404?style=for-the-badge)
 
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
+![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-627EEA?style=flat) <!--! 627EEA - eth color-->
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
