@@ -34,7 +34,7 @@
 ### Eplore my projects ⭕ (template)
 
 | Project            | Field              | Status        |  Description                               |
-|:-------------------|:-------------------|:--------------|:------------------------------|:-------------------------------------------------|
+|:-------------------|:-------------------|:--------------|:-------------------------------------------------|
 | AudataDAO    | DataFi, DAOs       | Vana Foundation Grant grantee  | AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. |
 | Zauth      | Privacy, SocialFi        | Zama Grant Apllicant (rejected)     | Add-on for SocialFi projects to store social medias connection data encrypted, Zauth uses Zama fhe. |
 | Sunflower Wallet      | Mobile app, DeFi          | Stacks DeGrants grantee    | Bitcoin Finance Mobile Wallet, built with focus on yield famring, user-friendly UI and AI analytics integration |
