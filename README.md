@@ -31,7 +31,7 @@
 
 <!-- ![status](./status101.svg) -->
 
-### Eplore my projects ⭕ (template)
+### Eplore my projects ⭕
 
 | | Project            | Field              | Status        |  Description                               |
 |:---|:-------------------|:-------------------|:--------------|:-------------------------------------------------|
