@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/dynamic/json?label=Repos&query=length&url=https://api.github.com/users/no-hive/repos&color=E30404)
 ![](https://img.shields.io/github/followers/no-hive?style=flat-square&color=E30404) -->
 
-
+![Clarity](https://img.shields.io/badge/_-NOW-E30404?style=for-the-badge)
 ![Clarity](https://img.shields.io/badge/Blockchain_Developer-1+_year-E30404?style=for-the-badge)
 
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
