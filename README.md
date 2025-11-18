@@ -54,14 +54,14 @@
 
 ### Eplore my projects ⭕
 
-| | Project            | Field              | Status        |  Description                               | Links |
-|:---|:---------------------|:---------------------|:----------------|:---------------------------------------------------|:----|
-|💾| AudataDAO    | DataFi, DAOs       | 🟢 Vana Foundation Grant grantee.  | AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. | [DApp](audata.space)  [Github]() [Gitbook](https://audata.gitbook.io/audata-docs)| 
-|🔐| Zauth      | Privacy, SocialFi        | 🔴 Zama Grant Apllicant (rejected).     | Add-on for SocialFi projects to store social medias connection data encrypted, Zauth uses Zama fhe. |[Github]() |
-|💧| Sui Edu Dashboard      | Data, Education        | 🟢 Live on Dune. | Dashboard to explore the core principles of Sui Blockchain while wxploring its latest metrics. The education on live data.  | [Dune](https://dune.com/no__hive/sui-educational-dashboard)| |
-|🌻| Sunflower Wallet      | Mobile app, DeFi | 🟢 Stacks DeGrants grantee.    | Bitcoin Finance Mobile Wallet, built with focus on yield famring, user-friendly UI and AI analytics integration. | [Download]() [Github]() |
-|⚖️| Daocratic_v1          | DAOs          | 🟣 Outlining the concept.     | Daocratic_v1 is the experiment to possibly bring proportional-ranked choice voting on-chain. | [Github]() |
-|🦄| RWC Hook     | DEXs, stablecoins      | 🟣 Applied for Uniswap Hook Incubator.    | Uniswap v4 hook to create stablecoins pools of diffeent currencies that will be traded according to external real world price feeds.  | [Github]() |
+ | Project            | Field              | Status        |  Description                               | Links |
+|:---------------------|:---------------------|:----------------|:---------------------------------------------------|:----|
+| AudataDAO    | DataFi, DAOs       | Vana Foundation Grant grantee.  | AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. | [DApp](audata.space)  [Github]() [Gitbook](https://audata.gitbook.io/audata-docs)| 
+| Zauth      | Privacy, SocialFi        | Zama Grant Apllicant (rejected).     | Add-on for SocialFi projects to store social medias connection data encrypted, Zauth uses Zama fhe. |[Github]() |
+| Sui Edu Dashboard      | Data, Education        | Live on Dune. | Dashboard to explore the core principles of Sui Blockchain while wxploring its latest metrics. The education on live data.  | [Dune](https://dune.com/no__hive/sui-educational-dashboard)| |
+| Sunflower Wallet      | Mobile app, DeFi | Stacks DeGrants grantee.    | Bitcoin Finance Mobile Wallet, built with focus on yield famring, user-friendly UI and AI analytics integration. | [Download]() [Github]() |
+| Daocratic_v1          | DAOs          | Outlining the concept.     | Daocratic_v1 is the experiment to possibly bring proportional-ranked choice voting on-chain. | [Github]() |
+| RWC Hook     | DEXs, stablecoins      | Applied for Uniswap Hook Incubator.    | Uniswap v4 hook to create stablecoins pools of diffeent currencies that will be traded according to external real world price feeds.  | [Github]() |
 
 
 
