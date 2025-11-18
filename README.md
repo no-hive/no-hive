@@ -45,7 +45,6 @@
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-2FA64A?style=flat)
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-2FA64A?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-2FA64A?style=flat)
-![Clarity](https://img.shields.io/badge/Tech_Project_Manager-2+_year-2FA64A?style=for-the-badge)
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-2FA64A?style=flat)
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-2FA64A?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-2FA64A?style=flat)
