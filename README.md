@@ -4,17 +4,15 @@
 
 <!--![status](./status3.svg) --> 
 
-### Five highlights about me ♨️
+### Four highlights about me ♨️
 
-- I am the co-founder of the cape4labs team. Together, we are currently building the Bitcoin Finance Wallet.
+- I am a co-founder of the cape4labs team. Together, we have built solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance. You can find more details here — link.
 
-- I am also the founder of AudataDAO — a decentralized on-chain infrastructure project for crowdsourcing audio speech data.
+- I contributed to cape4labs team projects mainly as a technical writer, project manager, and concept designer, and much less as a developer. Right now, I am changing that and learning Solidity.
 
-- My current learning focus is Solidity and DAOs.
+- My career focus is DAOs. I love the idea of on-chain governance, and it aligns with my philosophical views. I am trying to build several initiatives in this field and I know I will succeed soon.
 
-- My past learning focus included SQL, on-chain data, and Dune Analytics.
-
-- I love Science Fiction and blockchain techs for me is the way to build the world we only dreamt about. 
+- I love science fiction, and for me, blockchain technologies are a way to build the world we once only dreamed about.
 
 ### My experience 🔺(draft)
 
