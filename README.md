@@ -1,16 +1,5 @@
-![Clarity](https://img.shields.io/badge/Junior-E30404?style=for-the-badge)
-![Clarity](https://img.shields.io/badge/Smart_Contracts_Dev-E30404?style=for-the-badge)
-
-![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
-![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
-![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
-![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
-![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
-![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
+![Experience](https://img.shields.io/badge/Junior-E30404?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Smart_Contracts_Dev-E30404?style=for-the-badge)
 
 ♨️ **I am a co-founder of the Cape4labs.** Together, we have built solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance. You can find more details here — [Github](https://github.com/cape4labs). I contributed to Cape4labs team projects mainly as a technical writer, project manager, and concept designer, and much less as a developer. Right now, I am changing that and learning Solidity. 
 
