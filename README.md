@@ -1,20 +1,13 @@
 ![!](bg2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=E30404&multiline=true&width=600&height=100&lines=%2F%2F+My+name+is+no-hive%2C+and+I+work+with+DAOs%2C+DEXs%2C+;%2F%2F+and+any+other+on-chain+infrstructure.+;%2F%2F+----------------------------------------;%2F%2F+Welcome!)](https://git.io/typing-svg)
 
-<!--![status](./status3.svg) --> 
+### Who am I?
 
-### Four highlights about me ♨️
+♨️ **I am a co-founder of the Cape4labs.** Together, we have built solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance. You can find more details here — [Github](https://github.com/cape4labs). I contributed to Cape4labs team projects mainly as a technical writer, project manager, and concept designer, and much less as a developer. Right now, I am changing that and learning Solidity. 
 
-- I am a co-founder of the cape4labs team. Together, we have built solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance. You can find more details here — link.
+⭕ **My career focus is DAOs.** I love the idea of on-chain governance, and it aligns with my philosophical views. I am trying to build several initiatives in this field and I know I will succeed soon. I love science fiction, and for me, blockchain technologies are a way to build the world we once only dreamed about.
 
-- I contributed to cape4labs team projects mainly as a technical writer, project manager, and concept designer, and much less as a developer. Right now, I am changing that and learning Solidity.
-
-- My career focus is DAOs. I love the idea of on-chain governance, and it aligns with my philosophical views. I am trying to build several initiatives in this field and I know I will succeed soon.
-
-- I love science fiction, and for me, blockchain technologies are a way to build the world we once only dreamed about.
-
-### My experience 🔺(draft)
+### What are my skills?
 
 <!--![Clarity](https://img.shields.io/badge/MY_STATISTICS-E30404?style=flat)
 ![](https://komarev.com/ghpvc/?username=no-hive&color=E30404) 
@@ -24,7 +17,6 @@
 ![Clarity](https://img.shields.io/badge/_-NOW-E30404?style=for-the-badge)
 ![Clarity](https://img.shields.io/badge/Blockchain_Developer-1+_year-E30404?style=for-the-badge)
 
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-627EEA?style=flat) <!--! 627EEA - eth color-->
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
@@ -33,33 +25,7 @@
 ![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-E30404?style=flat)
 ![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-E30404?style=flat)
 ![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-E30404?style=flat)
-
-![Clarity](https://img.shields.io/badge/_-PREV.-2FA64A?style=for-the-badge)
-![Clarity](https://img.shields.io/badge/Tech_Project_Manager-2+_year-2FA64A?style=for-the-badge)
-
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-2FA64A?style=flat)
-![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-2FA64A?style=flat)
-![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-2FA64A?style=flat)
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-2FA64A?style=flat)
-![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-2FA64A?style=flat)
-![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-2FA64A?style=flat)
-![Clarity](https://img.shields.io/badge/SOLIDITY-|◻️◻️◼️◼️◼️-2FA64A?style=flat)
-![Git](https://img.shields.io/badge/SQL-|◻️◻️◻️◻️◼️-2FA64A?style=flat)
-![Solidity](https://img.shields.io/badge/GIT-|◻️◼️◼️◼️◼️-2FA64A?style=flat)
 
 <!-- ![status](./status101.svg) -->
 
-### Eplore my projects ⭕
-
- | Project            | Field              | Status        |  Description                               | Links |
-|:---------------------|:---------------------|:----------------|:---------------------------------------------------|:----|
-| AudataDAO    | DataFi, DAOs       | Vana Foundation Grant grantee.  | AudataDAO is decentralized infrastructure for collecting telegram audio messages into a solid, user-owned dataset of multilingual live speech. It is built and deployed on Vana Mainnet. | [DApp](audata.space)  [Github]() [Gitbook](https://audata.gitbook.io/audata-docs)| 
-| Zauth      | Privacy, SocialFi        | Zama Grant Apllicant (rejected).     | Add-on for SocialFi projects to store social medias connection data encrypted, Zauth uses Zama fhe. |[Github]() |
-| Sui Edu Dashboard      | Data, Education        | Live on Dune. | Dashboard to explore the core principles of Sui Blockchain while wxploring its latest metrics. The education on live data.  | [Dune](https://dune.com/no__hive/sui-educational-dashboard)| |
-| Sunflower Wallet      | Mobile app, DeFi | Stacks DeGrants grantee.    | Bitcoin Finance Mobile Wallet, built with focus on yield famring, user-friendly UI and AI analytics integration. | [Download]() [Github]() |
-| Daocratic_v1          | DAOs          | Outlining the concept.     | Daocratic_v1 is the experiment to possibly bring proportional-ranked choice voting on-chain. | [Github]() |
-| RWC Hook     | DEXs, stablecoins      | Applied for Uniswap Hook Incubator.    | Uniswap v4 hook to create stablecoins pools of diffeent currencies that will be traded according to external real world price feeds.  | [Github]() |
-
-
-
-![!](bg3.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=DE0000&multiline=true&repeat=false&width=800&height=40&lines=DM+if+you+want+to+collaborate+%3E%3E%3E+x.com%2Fno__hive)](https://git.io/typing-svg)
