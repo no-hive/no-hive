@@ -28,4 +28,4 @@
 
 <!-- ![status](./status101.svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=DE0000&multiline=true&repeat=false&width=800&height=40&lines=DM+if+you+want+to+collaborate+%3E%3E%3E+x.com%2Fno__hive)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7500&pause=1000&color=DE0000&multiline=true&repeat=false&width=800&height=40&lines=DM+if+you+want+to+collaborate+%3E%3E%3E+x.com%2Fno__hive)](https://git.io/typing-svg)
