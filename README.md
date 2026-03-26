@@ -3,7 +3,7 @@
 
 ♨️ **I am a co-founder of the Cape4labs:** 
 
-Together, we have built solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance. You can find more details here — [Github](https://github.com/cape4labs). There, I share the roles of both product manager and Solidity developer.
+Together, we have built solutions in areas such as blockchain privacy, on-chain data crowdsourcing, and decentralized finance. You can find more details here - [Github](https://github.com/cape4labs). There, I share the roles of both product manager and Solidity developer.
 
 ⭕ **My career focus is DAOs:** 
 
