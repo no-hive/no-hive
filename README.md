@@ -1,5 +1,5 @@
 ![Experience](https://img.shields.io/badge/Junior-E30404?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Smart_Contracts_Dev-E30404?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Solidity_Engineer-E30404?style=for-the-badge)
 
 ♨️ **I am a co-founder of the Cape4labs:** 
 
