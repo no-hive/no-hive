@@ -1,0 +1,30 @@
+name: Update ChainSkillsRadar
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "radar.json"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate radar
+        uses: YOUR_GITHUB_USER/chain-skills-radar@v3
+        with:
+          config: radar.json
+          output: assets/radar.svg
+
+      - name: Commit radar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/radar.svg
+          git diff --cached --quiet || git commit -m "chore: update skills radar"
+          git push
