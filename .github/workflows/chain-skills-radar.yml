@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate radar
-        uses: no-hive/chain-skills-radar@v3
+        uses: no-hive/chain_skills_radar@v3
         with:
           config: radar.json
           output: assets/radar.svg
