@@ -1,4 +1,4 @@
-<img align="right" width="40%" alt="image_1" src="./assets/radar.svg" />
+<img align="right" width="50%" alt="image_1" src="./assets/radar.svg" />
 
 //////////////////////////////
 
