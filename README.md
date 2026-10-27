@@ -1,4 +1,4 @@
-<img align="right" width="50%" alt="image_1" src="https://github.com/user-attachments/assets/0062a80d-de88-41c8-9df3-1c8c9e9e2183" />
+<img align="right" width="50%" alt="image_1" src="./assets/radar.svg" />
 
 Hi! My name is no-hive. **Five facts about me:**
 
@@ -14,5 +14,3 @@ Hi! My name is no-hive. **Five facts about me:**
 
 <br clear="right">
 
-![My onchain skills](./assets/radar.svg)
- 
