@@ -1,13 +1,15 @@
-**My name is no-hive.** 
+**Hi! My name is no-hive.** 
 
-Four facts about me: 
+Five facts about me: 
 
-1 - I build things on Ethereum. 
+1 - I build on Ethereum.
 
-2 - Solidity was the first language I ever learned.
+2 - Solidity was the first programming language I ever learned.
 
-3 - Also I really love open source. 
+3 - I’m a big fan of sci-fi.
 
-4 - Finally, I have a nice website.
+4 - I also really love open source.
+
+5 - Finally, there’s my website, where you can find more.
 
 ![My onchain skills](./assets/radar.svg) 
