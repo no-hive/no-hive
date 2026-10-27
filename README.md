@@ -1,15 +1,18 @@
-**Hi! My name is no-hive.** 
+<img align="right" width="50%" alt="image_1" src="https://github.com/user-attachments/assets/0062a80d-de88-41c8-9df3-1c8c9e9e2183" />
 
-Five facts about me: 
+Hi! My name is no-hive.
 
-1 - I build on Ethereum.
+**Five facts about me:**
 
-2 - Solidity was the first programming language I ever learned.
+1 - I build things on Ethereum.
 
-3 - I’m a big fan of sci-fi.
+2 - Solidity was the first language I learned.
 
-4 - I also really love open source.
+3 - I'm a big fan of sci-fi.
 
-5 - Finally, there’s my website, where you can find more.
+4 - Also I really love open source.
 
-![My onchain skills](./assets/radar.svg) 
+5 - Finally, there's [my website](https://no-hive.gwei.domains), where you can find more.
+
+<br clear="right">
+ 
