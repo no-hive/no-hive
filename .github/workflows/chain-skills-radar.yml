@@ -31,6 +31,10 @@ jobs:
         with:
           config: radar.json
           output: assets/radar.svg
+          format: square
+          size: 1100
+          label_font_size: 36
+          title_font_size: 40
 
       - name: Commit updated radar
         run: |
