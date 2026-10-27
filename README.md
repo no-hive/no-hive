@@ -1,4 +1,6 @@
-<img align="right" width="50%" alt="image_1" src="./assets/radar.svg" />
+<img align="right" width="40%" alt="image_1" src="./assets/radar.svg" />
+
+//////////////////////////////
 
 Hi! My name is no-hive. **Five facts about me:**
 
@@ -11,6 +13,8 @@ Hi! My name is no-hive. **Five facts about me:**
 4 - Also I really love open source.
 
 5 - Finally, there's [my website](https://no-hive.gwei.domains), where you can find more.
+
+//////////////////////////////
 
 <br clear="right">
 
