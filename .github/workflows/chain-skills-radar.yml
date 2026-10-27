@@ -1,30 +1,46 @@
-name: Update ChainSkillsRadar
+name: Update skills radar
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - "radar.json"
+      - radar.json
+      - .github/workflows/chain-skills-radar.yml
 
 permissions:
   contents: write
 
+concurrency:
+  group: skills-radar-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   generate:
+    if: >-
+      github.ref_type == 'branch' &&
+      github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Generate radar
-        uses: no-hive/chain_skills_radar
+        uses: no-hive/chain_skills_radar@main
         with:
           config: radar.json
           output: assets/radar.svg
 
-      - name: Commit radar
+      - name: Commit updated radar
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/radar.svg
-          git diff --cached --quiet || git commit -m "chore: update skills radar"
-          git push
+
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+
+          git commit -m "Update skills radar"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
