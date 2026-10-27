@@ -1,43 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="What I Enjoy Building On-Chain">
-<title>What I Enjoy Building On-Chain</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1100" width="1100" height="1100" role="img" aria-label="My Interests">
+<title>My Interests</title>
 <style>
   .grid{fill:none;stroke-width:1;stroke-dasharray:2 4}
   .outer,.axis{fill:none;stroke-width:1}
   .data{fill:#6366f1;fill-opacity:0.3;stroke-width:2.5;stroke-linejoin:round}
-  .label{font:400 15.5px Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.1px}
-  .chart-title{font:500 24px Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.1px}
+  .label{font:400 36px Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.1px}
+  .chart-title{font:500 40px Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.1px}
   .background{fill:#fff}.grid,.outer,.axis,.data{stroke:#000}.dot,.label,.chart-title{fill:#000}
   @media(prefers-color-scheme:dark){.background{fill:#0d1117}.grid,.outer,.axis,.data{stroke:#f0f6fc}.dot,.label,.chart-title{fill:#f0f6fc}}
 </style>
-<rect class="background" width="1200" height="600"/>
-<text class="chart-title" x="600" y="46.9" text-anchor="middle">What I Enjoy Building On-Chain</text>
-<polygon class="grid" points="600.0,272.3 637.8,288.0 653.5,325.8 637.8,363.7 600.0,379.3 562.2,363.7 546.5,325.8 562.2,288.0"/>
-<polygon class="grid" points="600.0,218.8 675.7,250.2 707.0,325.8 675.7,401.5 600.0,432.8 524.3,401.5 493.0,325.8 524.3,250.2"/>
-<polygon class="grid" points="600.0,165.3 713.5,212.3 760.5,325.8 713.5,439.3 600.0,486.3 486.5,439.3 439.5,325.8 486.5,212.3"/>
-<polygon class="outer" points="600.0,111.8 751.3,174.5 814.0,325.8 751.3,477.2 600.0,539.8 448.7,477.2 386.0,325.8 448.7,174.5"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="600.0" y2="111.8"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="751.3" y2="174.5"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="814.0" y2="325.8"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="751.3" y2="477.2"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="600.0" y2="539.8"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="448.7" y2="477.2"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="386.0" y2="325.8"/>
-<line class="axis" x1="600" y1="325.83333333333337" x2="448.7" y2="174.5"/>
-<polygon class="data" points="600.0,218.8 645.4,280.4 621.4,325.8 630.3,356.1 600.0,411.4 524.3,401.5 471.6,325.8 478.9,204.8"/>
-<circle class="dot" cx="600.0" cy="218.8" r="5"/>
-<circle class="dot" cx="645.4" cy="280.4" r="5"/>
-<circle class="dot" cx="621.4" cy="325.8" r="5"/>
-<circle class="dot" cx="630.3" cy="356.1" r="5"/>
-<circle class="dot" cx="600.0" cy="411.4" r="5"/>
-<circle class="dot" cx="524.3" cy="401.5" r="5"/>
-<circle class="dot" cx="471.6" cy="325.8" r="5"/>
-<circle class="dot" cx="478.9" cy="204.8" r="5"/>
-<text class="label" x="600.0" y="83.8" text-anchor="middle" dominant-baseline="middle">DeFi</text>
-<text class="label" x="771.1" y="154.7" text-anchor="start" dominant-baseline="middle">PayFi</text>
-<text class="label" x="842.0" y="325.8" text-anchor="start" dominant-baseline="middle">Assets</text>
-<text class="label" x="771.1" y="497.0" text-anchor="start" dominant-baseline="middle">DePIN</text>
-<text class="label" x="600.0" y="567.8" text-anchor="middle" dominant-baseline="middle">Privacy</text>
-<text class="label" x="428.9" y="497.0" text-anchor="end" dominant-baseline="middle">Identity</text>
-<text class="label" x="358.0" y="325.8" text-anchor="end" dominant-baseline="middle">Funding</text>
-<text class="label" x="428.9" y="154.7" text-anchor="end" dominant-baseline="middle">DAOs</text>
+<rect class="background" width="1100" height="1100"/>
+<text class="chart-title" x="550" y="188.7" text-anchor="middle">My Interests</text>
+<polygon class="grid" points="550.0,588.3 592.4,605.9 610.0,648.3 592.4,690.8 550.0,708.3 507.6,690.8 490.0,648.3 507.6,605.9"/>
+<polygon class="grid" points="550.0,528.3 634.9,563.5 670.0,648.3 634.9,733.2 550.0,768.3 465.1,733.2 430.0,648.3 465.1,563.5"/>
+<polygon class="grid" points="550.0,468.3 677.3,521.1 730.0,648.3 677.3,775.6 550.0,828.3 422.7,775.6 370.0,648.3 422.7,521.1"/>
+<polygon class="outer" points="550.0,408.3 719.7,478.6 790.0,648.3 719.7,818.0 550.0,888.3 380.3,818.0 310.0,648.3 380.3,478.6"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="550.0" y2="408.3"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="719.7" y2="478.6"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="790.0" y2="648.3"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="719.7" y2="818.0"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="550.0" y2="888.3"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="380.3" y2="818.0"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="310.0" y2="648.3"/>
+<line class="axis" x1="550" y1="648.3333333333333" x2="380.3" y2="478.6"/>
+<polygon class="data" points="550.0,528.3 600.9,597.4 574.0,648.3 583.9,682.3 550.0,744.3 465.1,733.2 406.0,648.3 414.2,512.6"/>
+<circle class="dot" cx="550.0" cy="528.3" r="5"/>
+<circle class="dot" cx="600.9" cy="597.4" r="5"/>
+<circle class="dot" cx="574.0" cy="648.3" r="5"/>
+<circle class="dot" cx="583.9" cy="682.3" r="5"/>
+<circle class="dot" cx="550.0" cy="744.3" r="5"/>
+<circle class="dot" cx="465.1" cy="733.2" r="5"/>
+<circle class="dot" cx="406.0" cy="648.3" r="5"/>
+<circle class="dot" cx="414.2" cy="512.6" r="5"/>
+<text class="label" x="550.0" y="366.9" text-anchor="middle" dominant-baseline="middle">DeFi</text>
+<text class="label" x="749.0" y="449.4" text-anchor="start" dominant-baseline="middle">PayFi</text>
+<text class="label" x="831.4" y="648.3" text-anchor="start" dominant-baseline="middle">Assets</text>
+<text class="label" x="749.0" y="847.3" text-anchor="start" dominant-baseline="middle">DePIN</text>
+<text class="label" x="550.0" y="929.7" text-anchor="middle" dominant-baseline="middle">Privacy</text>
+<text class="label" x="351.0" y="847.3" text-anchor="end" dominant-baseline="middle">Identity</text>
+<text class="label" x="268.6" y="648.3" text-anchor="end" dominant-baseline="middle">Funding</text>
+<text class="label" x="351.0" y="449.4" text-anchor="end" dominant-baseline="middle">DAOs</text>
 </svg>
