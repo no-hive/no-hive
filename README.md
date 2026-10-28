@@ -14,7 +14,7 @@
 
 5 - Finally, there's [my website](https://no-hive.gwei.domains), where you can find more.
 
-### Check out my interests on the right and my pinned repos above.
+### Check out my interests on the right and my pinned repos below.
 
 <br clear="right">
 
