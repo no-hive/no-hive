@@ -35,6 +35,7 @@ jobs:
           size: 1100
           label_font_size: 36
           title_font_size: 40
+          compact: true
 
       - name: Commit updated radar
         run: |
