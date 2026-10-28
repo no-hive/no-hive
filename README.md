@@ -1,8 +1,8 @@
 <img align="right" width="50%" alt="image_1" src="./assets/radar.svg" />
 
-//////////////////////////////
+### Hi! My name is no-hive. 
 
-Hi! My name is no-hive. **Five facts about me:**
+**Five facts about me:**
 
 1 - I build things on Ethereum.
 
@@ -14,7 +14,7 @@ Hi! My name is no-hive. **Five facts about me:**
 
 5 - Finally, there's [my website](https://no-hive.gwei.domains), where you can find more.
 
-//////////////////////////////
+### Check out my interests on the right and my pinned repos above.
 
 <br clear="right">
 
