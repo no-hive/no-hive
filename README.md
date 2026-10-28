@@ -12,7 +12,7 @@
 
 4 - Also I really love open source.
 
-5 - Finally, there's [my website](https://no-hive.gwei.domains), where you can find more.
+5 - Finally, I have a pretty nice [website](https://no-hive.gwei.domains).
 
 ### Check out my interests on the right and my pinned repos below.
 
